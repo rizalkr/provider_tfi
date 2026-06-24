@@ -1,0 +1,148 @@
+offer_id,package_name,family_name,quota_gb,duration_days,price_rp,original_price_rp,vas_included,api_source,price_per_gb
+6281513000000-HP_MYIM3_IF_ALL_MLP_7GB_28D_36K-1782287716287,Internet 7GB +Extra Google Gemini,Internet,7.0,28 Hari,36000,40000,,offer/getlist,5142.86
+6281513000000-HP_MYIM3_IF_ALL_SLP_12GB_14D_30K-1782287716287,Internet 12GB,Internet,12.0,14 Hari,30000,30000,,offer/getlist,2500.0
+6281513000000-HP_MYIM3_RF_ALL_MD_50K_59K_24GB_28D_60K-1782287716287,Internet 24GB +Extra Google Gemini,Internet,24.0,28 Hari,60000,109000, + Akses VIU + 20menit ke semua operator,offer/getlist,2500.0
+6281513000000-HP_MYIM3_RF_ALL_MD_50K_59K_31GB_28D_70K-1782287716287,Internet 31GB +Extra Google Gemini,Internet,31.0,28 Hari,70000,139000, + 30menit ke semua operator,offer/getlist,2258.06
+6281513000000-HP_MYIM3_RF_ALL_MD_50K_59K_40GB_28D_80K-1782287716287,Internet 40GB +Extra Google Gemini,Internet,40.0,28 Hari,80000,169000, + 30menit ke semua operator,offer/getlist,2000.0
+6281513000000-HP_MYIM3_RF_ALL_MD_50K_59K_66GB_30D_100K-1782287716287,Internet 66GB +Extra Google Gemini,Internet,66.0,30 Hari,100000,219000, + VIU / Vidio Ultimate / WeTV VIP + 50menit ke semua operator,offer/getlist,1515.15
+6281513000000-HP_MYIM3_RF_ALL_MD_50K_59K_100GB_28D_125K-1782287716287,Internet 100GB +Extra Google Gemini,Internet,100.0,28 Hari,125000,329000, + VIU / Vidio Platinum / WeTV VIP + 50menit ke semua operator,offer/getlist,1250.0
+6281513000000-HP_MYIM3_RF_ALL_MD_50K_59K_150GB_28D_150K-1782287716287,Internet 150GB +Extra Google Gemini,Internet,150.0,28 Hari,150000,399000, + VIU / Vidio Ultimate / WeTV VIP + 70menit ke semua operator,offer/getlist,1000.0
+6281513000000-HP_MYIM3_RF_ALL_MD_50K_59K_50GB_90D_200K-1782287716287,Internet 50GB +Extra Google Gemini,Internet,50.0,90 Hari,200000,229000, + 70menit ke semua operator,offer/getlist,4000.0
+6281513000000-HP_MYIM3_RF_ALL_MD_50K_59K_5GB_2D_10K-1782287716287,Internet 5GB,Internet,5.0,2 Hari,10000,10000,,offer/getlist,2000.0
+6281513000000-HP_MYIM3_RF_ALL_MD_50K_59K_6GB_5D_20K-1782287716287,Internet 6GB,Internet,6.0,5 Hari,20000,20000,,offer/getlist,3333.33
+6281513000000-HP_MYIM3_RF_ALL_MD_50K_59K_10GB_7D_25K-1782287716287,Internet 10GB,Internet,10.0,7 Hari,25000,25000,,offer/getlist,2500.0
+6281513000000-HP_MYIM3_RF_ALL_MD_50K_59K_15GB_10D_30K-1782287716287,Internet 15GB,Internet,15.0,10 Hari,30000,30000,,offer/getlist,2000.0
+6281513000000-HP_MYIM3_RF_ALL_MD_50K_59K_25GB_14D_50K-1782287716287,Internet 25GB,Internet,25.0,14 Hari,50000,50000,,offer/getlist,2000.0
+6281513000000-HP_MYIM3_IF_ALL_VAS_12GB_30D_20K-1782287716287,Freedom Apps FUN 12GB,Freedom Apps FUN,12.0,30 Hari,20000,20000,,offer/getlist,1666.67
+6281513000000-HP_MYIM3_IF_PRE_T216_V_UNL_30D_5K_REV2_OFFER1-1782287716287,Nelpon 30 Hari,Call,0.0,30 Hari,5000,5000,,offer/getlist,500000.0
+5GFI125GB30DOR_1_LTS,Freedom 5G 125GB,Freedom 5G 125GB,0.0,30 Hari,160000,160000,Bebas Akses iQIYI/Viu/WeTV/Vidio EPL,packages/packagelist,16000000.0
+NEWFIR150GB30DOR_11_LTS,Freedom Internet 150GB,Freedom Internet 150GB,0.0,28 Hari,150000,185000,Bebas Akses iQIYI/Viu/ WeTV/ Vidio EPL,packages/packagelist,15000000.0
+5GFI72GB30DOR_1_LTS,Freedom 5G 72GB,Freedom 5G 72GB,0.0,30 Hari,110000,110000,Bebas Akses iQIYI/Viu/WeTV/Vidio,packages/packagelist,11000000.0
+NEWFIR300GB30DOR_1_LTS,Freedom Internet 300GB,Freedom Internet 300GB,0.0,28 Hari,200000,250000,Bebas Akses iQIYI/ Viu / WeTV/ Vidio EPL,packages/packagelist,20000000.0
+NEWFIRS20GB3DOR_1_LTS,Freedom Internet 20GB,Freedom Internet 20GB,0.0,3 Hari,20000,20000,Ekstra Google Gemini 180 Hari,packages/packagelist,2000000.0
+NEWFIS14GB7DAPR26SO_1_LTS,Freedom Internet 14GB,Freedom Internet,0.0,7 Hari,28000,28000,Ekstra Google Gemini 180 Hari,packages/packagelist,2800000.0
+NEWFIRS30GB5DOR_4_LTS,Freedom Internet 30GB,Freedom Internet,0.0,5 Hari,30000,30000,Ekstra Google Gemini 180 Hari,packages/packagelist,3000000.0
+NEWFIS25GB14DAPR26OR_1_LTS,Freedom Internet 25GB,Freedom Internet,0.0,14 Hari,50000,50000,Ekstra Google Gemini 180 Hari,packages/packagelist,5000000.0
+NEWFIRS50GB10DOR_1_LTS,Freedom Internet 75GB,Freedom Internet 75GB,0.0,7 Hari,50000,55000,Ekstra Google Gemini 180 Hari,packages/packagelist,5000000.0
+NEWFI100GB28DFEB26OR_1_LTS,Freedom Internet 100GB / 28 Hari,Freedom Internet 100GB / 28 Hari,0.0,28 Hari,125000,125000,Bebas Akses iQIYI/ Viu/ WeTV/ Vidio,packages/packagelist,12500000.0
+NEWFI70GB28DFEB26OR_1_LTS,Freedom Internet 70GB / 28 Hari,Freedom Internet 70GB / 28 Hari,0.0,28 Hari,105000,105000,Bebas Akses iQIYI/ Viu/ WeTV/ Vidio,packages/packagelist,10500000.0
+NEWFI7GB28DFEB26OR_1_LTS,Freedom Internet 7GB/28 Hari,Freedom Internet 7GB/28 Hari,0.0,28 Hari,35000,35000,Ekstra Google Gemini 180 Hari,packages/packagelist,3500000.0
+NEWFI11GB28DFEB26OR_1_LTS,Freedom Internet 11GB / 28 Hari,Freedom Internet 11GB / 28 Hari,0.0,28 Hari,45000,45000,Ekstra Google Gemini 180 Hari,packages/packagelist,4500000.0
+NEWFI16GB28DFEB26OR_1_LTS,Freedom Internet 16GB / 28 Hari,Freedom Internet 16GB / 28 Hari,0.0,28 Hari,55000,55000,,packages/packagelist,5500000.0
+NEWFI26GB28DFEB26OR_1_LTS,Freedom Internet 26GB / 28 Hari,Freedom Internet 26GB / 28 Hari,0.0,28 Hari,65000,65000,,packages/packagelist,6500000.0
+NEWFI42GB28DFEB26OR_1_LTS,Freedom Internet 42GB / 28 Hari,Freedom Internet 42GB / 28 Hari,0.0,28 Hari,85000,85000,Bebas Akses iQIYI/ Viu/ WeTV,packages/packagelist,8500000.0
+NEWFIS6GB2DAPR26OR_1_LTS,Freedom Internet 6GB,Freedom Internet,0.0,2 Hari,11000,15000,Ekstra Google Gemini 180 Hari,packages/packagelist,1100000.0
+SVKM5GB2DORG_1_LTS,Freedom Internet 5GB,Freedom Internet,0.0,2 Hari,10000,10000,Ekstra Google Gemini 180 Hari,packages/packagelist,1000000.0
+NEWFIS10GB1DAPR26OR_1_LTS,Freedom Internet 10GB,Freedom Internet,0.0,1 Hari,10000,12000,Ekstra Google Gemini 180 Hari,packages/packagelist,1000000.0
+NEWFIS9GB3DAPR26SO_1_LTS,Freedom Internet 9GB,Freedom Internet,0.0,3 Hari,17000,17000,Ekstra Google Gemini 180 Hari,packages/packagelist,1700000.0
+NEWFIS9GB5DAPR26SO_1_LTS,Freedom Internet 9GB,Freedom Internet,0.0,5 Hari,22000,22000,Ekstra Google Gemini 180 Hari,packages/packagelist,2200000.0
+NEWFIS15GB5DAPR26OR_1_LTS,Freedom Internet 15GB,Freedom Internet,0.0,5 Hari,25000,30000,Ekstra Google Gemini 180 Hari,packages/packagelist,2500000.0
+NEWFIS20GB7DAPR26SO_1_LTS,Freedom Internet 20GB,Freedom Internet,0.0,7 Hari,32000,32000,Ekstra Google Gemini 180 Hari,packages/packagelist,3200000.0
+NEWFIS7GB14DAPR26SO_1_LTS,Freedom Internet 7GB,Freedom Internet,0.0,14 Hari,30000,35000,Ekstra Google Gemini 180 Hari,packages/packagelist,3000000.0
+DDFI1TB360D_1_LTS,Freedom Internet Satu 1024GB / 360 Hari,Freedom Internet,0.0,360 Hari,1000000,1000000,Ekstra Google Gemini 180 Hari,packages/packagelist,100000000.0
+ULNEW400GB360D_1_LTS,Freedom Internet 400GB/360 Hari,Freedom Internet,0.0,360 Hari,850000,850000,Ekstra Google Gemini 180 Hari,packages/packagelist,85000000.0
+DDFI500GB180D_1_LTS,Freedom Internet 500GB / 180 Hari,Freedom Internet 500GB / 180 Hari,0.0,180 Hari,500000,500000,Ekstra Google Gemini 180 Hari,packages/packagelist,50000000.0
+ULNEW200GB180D_1_LTS,Freedom Internet 200GB/180 Hari,Freedom Internet,0.0,180 Hari,450000,450000,,packages/packagelist,45000000.0
+DDFI250GB90D_1_LTS,Freedom Internet 250GB / 90 Hari,Freedom Internet 250GB / 90 Hari,0.0,90 Hari,300000,300000,Ekstra Google Gemini 180 Hari,packages/packagelist,30000000.0
+ULNEW100GB90D_1_LTS,Freedom Internet 100GB/90 Hari,Freedom Internet,0.0,90 Hari,250000,250000,Ekstra Google Gemini 180 Hari,packages/packagelist,25000000.0
+FKH90GB30DSS_1_LTS,Freedom Spesial 90GB/30hr (3GB/hr),Freedom Spesial 90GB/30hr (3GB/hr),0.0,30 Hari,139000,139000,Ekstra Google Gemini 180 Hari,packages/packagelist,13900000.0
+FIR60GB30DSS_1_LTS,Freedom Spesial 60GB/30hr (2GB/hr),Freedom Internet,0.0,30 Hari,99000,99000,Ekstra Google Gemini 180 Hari,packages/packagelist,9900000.0
+VIDIOEPL5GB_9_LTS,Freedom Apps Vidio 5GB/30 Hari,Freedom Apps Vidio 5GB/30 Hari,30.0,30 Hari,85000,85000,,packages/packagelist,2833.33
+WETVVIP5GBTAC_1_LTS,Freedom Apps WETV 5GB/30Hr,Freedom Apps WETV 5GB/30Hr,30.0,30 Hari,30000,44000,,packages/packagelist,1000.0
+FPMV20GB30D_1_LTS,20GB+Bebas Pilih Benefit!,Freedom Apps,0.0,30 Hari,85000,115000,,packages/packagelist,8500000.0
+FPMV8GB30D_1_LTS,Freedom Play 8GB/30 Hari,Freedom Apps,0.0,30 Hari,45000,45000,,packages/packagelist,4500000.0
+FPMV4GB30D_1_LTS,Freedom Play 6GB/30 Hari,Freedom Apps,0.0,30 Hari,37500,49000,,packages/packagelist,3750000.0
+FPMV3GB7D_1_LTS,"2,5GB+Bebas Pilih Benefit!","2,5GB+Bebas Pilih Benefit!",0.0,7 Hari,15000,25000,,packages/packagelist,1500000.0
+5GFI35GB30DOR_1_LTS,Freedom 5G 35GB,Freedom 5G 35GB,0.0,30 Hari,80000,80000,,packages/packagelist,8000000.0
+5GFI20GB30DOR_1_LTS,Freedom 5G 20GB,Freedom 5G 20GB,0.0,30 Hari,60000,60000,,packages/packagelist,6000000.0
+5GFI12GB30DOR_1_LTS,Freedom 5G 12GB,Freedom 5G 12GB,0.0,30 Hari,50000,50000,Ekstra Google Gemini 180 Hari,packages/packagelist,5000000.0
+5GFIS28GB7DOR_1_LTS,Freedom Internet 5G 28GB,Freedom Internet 5G 28GB,0.0,7 Hari,35000,35000,Ekstra Google Gemini 180 Hari,packages/packagelist,3500000.0
+5GFIS20GB5DOR_1_LTS,Freedom Internet 5G 20GB,Freedom Internet 5G 20GB,0.0,5 Hari,25000,25000,Ekstra Google Gemini 180 Hari,packages/packagelist,2500000.0
+5GFIS8GB2DOR_1_LTS,Freedom Internet 5G 8GB,Freedom Internet 5G 8GB,0.0,2 Hari,15000,15000,,packages/packagelist,1500000.0
+VAL30DOR_1_LTS,Tambah Masa Aktif 30 Hari,Tambah Masa Aktif 30 Hari,0.0,,15000,15000,,packages/packagelist,1500000.0
+VAL90DOR_1_LTS,Tambah Masa Aktif 90 Hari,Tambah Masa Aktif 90 Hari,0.0,,35000,35000,,packages/packagelist,3500000.0
+VAL180DOR_1_LTS,Tambah Masa Aktif 180 Hari,Tambah Masa Aktif 180 Hari,0.0,,62000,62000,,packages/packagelist,6200000.0
+VAL360DOR_1_LTS,Tambah Masa Aktif 360 Hari,Tambah Masa Aktif 360 Hari,0.0,,115000,115000,,packages/packagelist,11500000.0
+FP3GB3D_1_LTS,Freedom Play 3GB / 3 Hari,Freedom Apps,0.0,30 Hari,13000,13000,,packages/packagelist,1300000.0
+FP5GB7D_1_LTS,Freedom Play 5GB / 7 Hari,Freedom Apps,0.0,30 Hari,25000,25000,,packages/packagelist,2500000.0
+FP12GB30D_1_LTS,Freedom Play 12GB / 30 Hari,Freedom Apps,0.0,30 Hari,50000,50000,,packages/packagelist,5000000.0
+FP30GB30D_1_LTS,Freedom Play 30GB / 30 Hari,Freedom Apps,0.0,30 Hari,85000,85000,,packages/packagelist,8500000.0
+FP50GB30D_1_LTS,Freedom Play 50GB / 30 Hari,Freedom Apps,0.0,30 Hari,110000,110000,,packages/packagelist,11000000.0
+REG VIU7_1_LTS,Viu 7 Hari + Kuota 1 GB,Viu 7 Hari + Kuota 1 GB,0.0,,10000,10000,,packages/packagelist,1000000.0
+REG VIUS1_1_LTS,Viu Premium 1 Hari,Viu Premium 1 Hari,0.0,,1000,1000,,packages/packagelist,100000.0
+REG VIUS7_1_LTS,Viu Premium 7 Hari,Viu Premium 7 Hari,0.0,,7000,7000,,packages/packagelist,700000.0
+REG VIU45_1_LTS,Viu 30 Hari + Kuota 8 GB,Viu 30 Hari + Kuota 8 GB,0.0,,45000,45000,,packages/packagelist,4500000.0
+REG VIUS3_1_LTS,Puas Drakoran Hanya 3rb!,Puas Drakoran Hanya 3rb!,0.0,,3000,3000,,packages/packagelist,300000.0
+REG BUNDMOV7 79_1_LTS,700MB + KlikFilm 7 Hari,700MB + KlikFilm 7 Hari,0.0,,7000,7000,,packages/packagelist,700000.0
+REG BMOV30 79_1_LTS,3GB + KlikFilm 30 Hari,3GB + KlikFilm 30 Hari,0.0,,30000,30000,,packages/packagelist,3000000.0
+REG BMOV7 79_1_LTS,1GB + KlikFilm 7 Hari,1GB + KlikFilm 7 Hari,0.0,,10000,10000,,packages/packagelist,1000000.0
+REG MOV3 79_1_LTS,Nonton Film dan AMBIL 20GB ,Nonton Film dan AMBIL 20GB ,0.0,,4440,4440,"HADIAH 400MB, EKSTRA 20GB + iPhone 17!",packages/packagelist,444000.0
+REG PLAYMOV 79_1_LTS,20GB + KlikFilm Trivia,20GB + KlikFilm Trivia,0.0,,1110,1110,,packages/packagelist,111000.0
+REG VGM3_1_LTS,VIDIO Gold Mobile 3 hari + 1.5GB,VIDIO Gold Mobile 3 hari + 1.5GB,0.0,,9999,9999,,packages/packagelist,999900.0
+REG VGM7_1_LTS,VIDIO Gold Mobile 7 hari + 2GB,VIDIO Gold Mobile 7 hari + 2GB,0.0,,15000,15000,,packages/packagelist,1500000.0
+REG VIDULT30_1_LTS,VIDIO Ultimate Mobile 30 hari + 4GB,VIDIO Ultimate Mobile 30 hari + 4GB,0.0,,90000,90000,,packages/packagelist,9000000.0
+REG VID3D_1_LTS,Vidio Mini Sachet,Vidio Mini Sachet,0.0,,4000,4000,,packages/packagelist,400000.0
+REG VGM30_1_LTS,VIDIO Gold Mobile 30 hari + 2GB,VIDIO Gold Mobile 30 hari + 2GB,0.0,,10000,10000,,packages/packagelist,1000000.0
+REG VPM30_1_LTS,VIDIO Platinum Mobile 30 hari + 3GB,VIDIO Platinum Mobile 30 hari + 3GB,0.0,,30000,30000,,packages/packagelist,3000000.0
+REG VPEXTRA30_1_LTS,VIDIO Platinum Extra Mobile 30 hari + 5GB,VIDIO Platinum Extra Mobile 30 hari + 5GB,0.0,,50000,50000,,packages/packagelist,5000000.0
+REG VMS30_1_LTS,Vision Premium Sports 30 Hari,Vision Premium Sports 30 Hari,0.0,,40000,40000,,packages/packagelist,4000000.0
+REG VMC30_1_LTS,Vision Premium Combo 30 Hari ,Vision Premium Combo 30 Hari ,0.0,,50000,50000,,packages/packagelist,5000000.0
+REG AIQ1 APP_1_LTS,AIQ 1 Hari,AIQ 1 Hari,0.0,,1,1,,packages/packagelist,100.0
+REG AIQ3 APP_1_LTS,AIQ 3 Hari,AIQ 3 Hari,0.0,,3000,3000,,packages/packagelist,300000.0
+REG KUIS11 APP_1_LTS,Kuis Kuota,Kuis Kuota,0.0,,1110,1110,,packages/packagelist,111000.0
+REG IMOVE1_1_LTS, IMove 1 Hari, IMove 1 Hari,0.0,,1000,1000,,packages/packagelist,100000.0
+REG GAME1_1_LTS,Gaming Berhadiah 25GB,Gaming Berhadiah 25GB,0.0,,1000,1000,,packages/packagelist,100000.0
+REG GLVRP1 APP_1_LTS,Main Game Seru hny Rp1,Main Game Seru hny Rp1,0.0,,1,1,,packages/packagelist,100.0
+REG GPL360_2_LTS,Hadiah Up To 50GB!,Hadiah Up To 50GB!,0.0,,2200,2200,,packages/packagelist,220000.0
+REG MINI1 79_1_LTS,Nonton Drama China Hadiah 20GB,Nonton Drama China Hadiah 20GB,0.0,,1110,1110,,packages/packagelist,111000.0
+REG MINI 79_1_LTS,Nonton DraCin dan GRATIS 400MB Langsung,Nonton DraCin dan GRATIS 400MB Langsung,0.0,,4440,4440,,packages/packagelist,444000.0
+REG LR2_1_LTS,"Tingkatkan Skill Bahasa Inggrismu, Hanya 2rb!","Tingkatkan Skill Bahasa Inggrismu, Hanya 2rb!",0.0,,2000,2000,,packages/packagelist,200000.0
+REG TRIVIA8E_1_LTS,Hadiah EWallet dengan Main Kuis!,Hadiah EWallet dengan Main Kuis!,0.0,,1000,1000,,packages/packagelist,100000.0
+REG MINI2 79_1_LTS,MiniBox 2 Hari,MiniBox 2 Hari,0.0,,2220,2220,,packages/packagelist,222000.0
+REG IM3SHORT30_1_LTS,IM3SHORT BULANAN / 30 Hari,Freedom Apps,0.0,,20000,20000,,packages/packagelist,2000000.0
+REG IM3SHORT7_1_LTS,IM3SHORT MINGGUAN / 7 Hari,Freedom Apps,0.0,,7500,7500,,packages/packagelist,750000.0
+REG GFB_1_LTS,500MB + Genflix 30 Hari,500MB + Genflix 30 Hari,0.0,,5000,5000,,packages/packagelist,500000.0
+REG SHD_1_LTS,200MB + Sushiroll 3 Hari,200MB + Sushiroll 3 Hari,0.0,,2000,2000,,packages/packagelist,200000.0
+REG IM3SHORT1_1_LTS,IM3SHORT HARIAN / 1 Hari,Freedom Apps,0.0,,1000,1000,,packages/packagelist,100000.0
+REG GR3_1_LTS,Gtunes 3 Hari,Gtunes 3 Hari,0.0,,2200,2200,,packages/packagelist,220000.0
+REG MST2_1_LTS,MYSHOWTIME 2 Hari,MYSHOWTIME 2 Hari,0.0,,2000,2000,,packages/packagelist,200000.0
+REG LF2_1_LTS,Lokal Film 3 Hari,Lokal Film 3 Hari,0.0,,2000,2000,,packages/packagelist,200000.0
+REG KUIS1 APP_1_LTS,Kuis Kuota 10GB,Kuis Kuota 10GB,0.0,,1000,1000,,packages/packagelist,100000.0
+REG SUSUN1 APP_1_LTS,10GB + Susun Gambar,10GB + Susun Gambar,0.0,,1000,1000,,packages/packagelist,100000.0
+REG GACHA_1_LTS,Gacha 1 Hari,Gacha 1 Hari,0.0,,1000,1000,,packages/packagelist,100000.0
+REG PLAYTRIV 79_1_LTS,PopGames Trivia,PopGames Trivia,0.0,,1110,1110,,packages/packagelist,111000.0
+REG FUN8_100_LTS,Fun8 Harian,Fun8 Harian,0.0,,1100,1100,,packages/packagelist,110000.0
+REG QUIZ1_1_LTS,Quiz Master 1 hari,Quiz Master 1 hari,0.0,,1199,1199,,packages/packagelist,119900.0
+REG MQ200_1_LTS,200MB + Match Quiz 3 Hari,200MB + Match Quiz 3 Hari,0.0,,2000,2000,,packages/packagelist,200000.0
+REG GABUT APP_1_LTS,ngGABUT 1 Hari,ngGABUT 1 Hari,0.0,,1332,1332,,packages/packagelist,133200.0
+REG GLV200_1_LTS,200MB + Gameloft 3 Hari,200MB + Gameloft 3 Hari,0.0,,2200,2200,,packages/packagelist,220000.0
+REG GB_100_LTS,GAMESBRO BONUS 200MB,GAMESBRO BONUS 200MB,0.0,,2000,2000,New,packages/packagelist,200000.0
+REG GP_2_LTS,Game Pack 3 Hari,Game Pack 3 Hari,0.0,,5550,5500,,packages/packagelist,555000.0
+REG POP1 MY_1_LTS,Rp500 + Pop Games 1 Hari,Rp500 + Pop Games 1 Hari,0.0,,550,550,New,packages/packagelist,55000.0
+REG MAIN200_1_LTS,200MB + Main Main 3 Hari,200MB + Main Main 3 Hari,0.0,,2000,2000,,packages/packagelist,200000.0
+REG BDGAME7 79_1_LTS,500MB + PopGames 7 Hari,500MB + PopGames 7 Hari,0.0,,5000,5000,,packages/packagelist,500000.0
+REG BUNDGAME7 79_1_LTS,700MB + PopGames 7 Hari,700MB + PopGames 7 Hari,0.0,,7000,7000,,packages/packagelist,700000.0
+REG LVA_1_LTS,LifeVitae Express 30 hari,LifeVitae Express 30 hari,0.0,,16650,16650,,packages/packagelist,1665000.0
+REG KPOP500_1_LTS,Rp500 + Fun Korea 1 Hari,Rp500 + Fun Korea 1 Hari,0.0,,550,550,,packages/packagelist,55000.0
+REG LVB_0_LTS,LifeVitae Advance 30 hari,LifeVitae Advance 30 hari,0.0,,33300,33300,,packages/packagelist,3330000.0
+REG KUGO_1_LTS,Kugo Harian,Kugo Harian,0.0,,1000,1000,,packages/packagelist,100000.0
+REG KPOP1 VS_1_LTS,Fun Korea 3 Hari,Fun Korea 3 Hari,0.0,,2200,2200,,packages/packagelist,220000.0
+REG NCE1 APP_1_LTS,Noice 1 Hari,Noice 1 Hari,0.0,,1110,1110,,packages/packagelist,111000.0
+REG NCE3 APP_1_LTS,Noice 3 Hari,Noice 3 Hari,0.0,,3300,3300,,packages/packagelist,330000.0
+REG NCE7 APP_1_LTS,Noice 7 Hari,Noice 7 Hari,0.0,,5400,5400,,packages/packagelist,540000.0
+REG NCE14 APP_1_LTS,Noice 14 Hari,Noice 14 Hari,0.0,,8800,8800,,packages/packagelist,880000.0
+REG NC30_1_LTS,Noice Premium 30 Hari,Noice Premium 30 Hari,0.0,,20000,20000,,packages/packagelist,2000000.0
+REG HORO3 APP_1_LTS,Horobot 3 Hari,Horobot 3 Hari,0.0,,3330,3330,,packages/packagelist,333000.0
+REG HORO1 APP_1_LTS,Horobot 1 Hari,Horobot 1 Hari,0.0,,1665,1665,,packages/packagelist,166500.0
+REG GP_1_LTS,Rp500 + Genflix Esport 1 Hari,Rp500 + Genflix Esport 1 Hari,0.0,,550,550,,packages/packagelist,55000.0
+REG FANTASY200_1_LTS,200MB + Fantasy League 3 Hari,200MB + Fantasy League 3 Hari,0.0,,2000,2000,,packages/packagelist,200000.0
+REG 100 IM3_1_LTS,100Second,100Second,0.0,,1000,1000,,packages/packagelist,100000.0
+REG FOOTBALL200_1_LTS,200MB + Football Zone 3 Hari,200MB + Football Zone 3 Hari,0.0,,2000,2000,,packages/packagelist,200000.0
+REG GAME3 79_1_LTS,16GB + PopGames,16GB + PopGames,0.0,,4440,4440,,packages/packagelist,444000.0
+REG GA3_1_LTS,100MB + Game Artist 3 Hari,100MB + Game Artist 3 Hari,0.0,,2200,2200,,packages/packagelist,220000.0
+REG LA APP_1_LTS,Layar Anak 3 Hari,Layar Anak 3 Hari,0.0,,3300,3300,,packages/packagelist,330000.0
+REG PRETTY APP_1_LTS,Pretty Squad 1 Hari,Pretty Squad 1 Hari,0.0,,1665,1665,,packages/packagelist,166500.0
+REG CANTIK1_1_LTS,Beauty Talk 1 Hari,Beauty Talk 1 Hari,0.0,,1110,1110,,packages/packagelist,111000.0
+REG STEP1_1_LTS,IMove 1 Hari Premium,IMove 1 Hari Premium,0.0,,1000,1000,,packages/packagelist,100000.0
+REG KIDS200_1_LTS,200MB + Kids Club 3 Hari,200MB + Kids Club 3 Hari,0.0,,2000,2000,,packages/packagelist,200000.0
+REG HEALTH200_1_LTS,200MB + Health Club 3 Hari,200MB + Health Club 3 Hari,0.0,,2000,2000,,packages/packagelist,200000.0
