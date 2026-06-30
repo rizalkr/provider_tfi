@@ -17,6 +17,7 @@ Repositori ini mengimplementasikan *pipeline* analisis deret waktu (*time-series
 ├── calculate_tfi_isat.ipynb            # Pipeline pemrosesan data Indosat
 ├── nlp_processor.py                    # Modul klasifikasi teks (reusable)
 ├── parse_har.py                        # Parser untuk log lalu lintas jaringan
+├── scrap-gplay.ipynb                      # Script untuk scraping data dari Google Play API
 └── README.md                           # Dokumentasi sistem
 ```
 
